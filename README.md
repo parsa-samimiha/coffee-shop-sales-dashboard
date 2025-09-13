@@ -41,7 +41,7 @@ behavior across products, weekdays, and time of day.
 
 Here is the interactive Power BI dashboard:
 
-![Coffee Shop Dashboard](Screenshot.png)<img width="756" height="419" alt="Screenshot" src="https://github.com/user-attachments/assets/1d00d3eb-2993-4f4d-aaa3-8818f3a3ac1f" />
+<img width="756" height="419" alt="Screenshot" src="https://github.com/user-attachments/assets/1d00d3eb-2993-4f4d-aaa3-8818f3a3ac1f" />
 
 
 ------------------------------------------------------------------------
